@@ -1,0 +1,16 @@
+/* Online C# Compiler and Editor */
+using System.IO;
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        int idade = 19;
+        string nome = "Gustavo Messias";
+        double valor = 100000.50;
+        char letra = 'A';
+        bool status = true;
+
+    }
+}
